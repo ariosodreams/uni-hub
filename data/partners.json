@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Partner University A (North America)",
+    "location": "Boston, USA",
+    "status": "Active",
+    "students": 12,
+    "focus": "Robotics & AI"
+  },
+  {
+    "id": 2,
+    "name": "Partner University B (Europe)",
+    "location": "Munich, Germany",
+    "status": "Pending Renewal",
+    "students": 4,
+    "focus": "Automotive Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Partner University C (Asia)",
+    "location": "Singapore",
+    "status": "Negotiating",
+    "students": 0,
+    "focus": "Supply Chain"
+  }
+]
